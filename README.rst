@@ -22,6 +22,6 @@ Usage
 API
 ===
 
-`pyapp_ext.pyspark.do_foo(name: str)`
+``pyapp_ext.pyspark.get_spark_session(name: str)``
 
-    Documentation of do foo!
+    Get a ``SparkSession``
